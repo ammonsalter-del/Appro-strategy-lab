@@ -4,7 +4,7 @@ An interactive educational game teaching how firms capture value from their inno
 
 ## 🎮 Play the Game
 
-**[Play Appropriation Strategy Lab](https://yourusername.github.io/appropriation-strategy-lab/)**
+**[Play Appropriation Strategy Lab](https://ammonsalterdel.github.io/appropriation-strategy-lab/)**
 
 ## About
 
@@ -122,6 +122,6 @@ Under the following terms:
 
 ## Feedback & Issues
 
-Found a bug or have a suggestion? Please [open an issue](https://github.com/yourusername/appropriation-strategy-lab/issues) on GitHub.
+Found a bug or have a suggestion? Please [open an issue](https://github.com/ammonsalter-del/appropriation-strategy-lab/issues) on GitHub.
 
 For teaching feedback or research collaboration, please contact the developer directly.
