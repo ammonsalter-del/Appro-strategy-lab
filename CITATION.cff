@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: "Appropriation Strategy Lab"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Salter
+    given-names: Ammon
+    affiliation: "Warwick Business School, University of Warwick"
+    orcid: "https://orcid.org/0000-0002-5133-4521"
+contributors:
+  - family-names: Bignone
+    given-names: Federico
+    affiliation: "University of Warwick"
+  - family-names: Criscuolo
+    given-names: Paola
+    affiliation: "Imperial College London"
+  - family-names: Palubinskas
+    given-names: Almantas
+version: "1.0.0"
+date-released: "2025-01-01"
+license: CC-BY-NC-SA-4.0
+url: "https://github.com/yourusername/appropriation-strategy-lab"
+repository-code: "https://github.com/yourusername/appropriation-strategy-lab"
+keywords:
+  - appropriation
+  - innovation
+  - education
+  - business school
+  - intellectual property
+  - strategy
+  - Teece
+  - profiting from innovation
+  - complementary assets
+abstract: >-
+  An interactive educational game teaching how firms capture value 
+  from their innovations. Players learn about appropriation mechanisms 
+  (patents, trade secrets, trademarks, copyright), complementary assets, 
+  and contracts through diverse real-world scenarios. Based on David 
+  Teece's influential "Profiting from Technological Innovation" framework.
+references:
+  - type: article
+    authors:
+      - family-names: Teece
+        given-names: David J.
+    title: "Profiting from technological innovation: Implications for integration, collaboration, licensing and public policy"
+    journal: "Research Policy"
+    volume: 15
+    issue: 6
+    pages: "285-305"
+    year: 1986
+    doi: "10.1016/0048-7333(86)90027-2"
