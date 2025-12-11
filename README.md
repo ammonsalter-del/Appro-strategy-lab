@@ -4,7 +4,7 @@ An interactive educational game teaching how firms capture value from their inno
 
 ## 🎮 Play the Game
 
-**[Play Appropriation Strategy Lab](https://ammonsalter-del.github.io/appropriation-strategy-lab/)**
+**[Play Appropriation Strategy Lab](https://ammonsalter-del.github.io/Appro-strategy-lab/)**
 
 ## About
 
