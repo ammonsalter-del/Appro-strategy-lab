@@ -41,8 +41,12 @@ The game is based on David Teece's influential framework from "Profiting from Te
 - **Bonus Mini-Game: "Value Drop"** — a fast-paced game where products fall toward value buckets and players must quickly attach the right protection mechanisms to steer them toward high value capture
 - **Supportive end-of-game summary** with personalised feedback and learning suggestions
 
-## What's New (June 2025)
+## What's New (January 2026)
 
+### Gameplay Improvements - Jan 2026
+- **Mini-game adjustments**: Restructuring of mini-game design with progressive speed during gameplay.
+- **Cookie acceptance**: Added an explicit statement about the use of cookies with tracking for game development and adoption. No personal data collected or tracking.
+ 
 ### Gameplay Improvements
 - **Randomised response options**: All 30 scenarios now display their three answer choices in random order each time, eliminating any positional bias
 - **Equalised answer lengths**: Response labels have been standardised to similar character counts (57-74 characters), removing the previous pattern where correct answers tended to be longer
